@@ -1,6 +1,6 @@
 .timezone-map polygon[data-selected='true'] {
     fill: #ff2e2e;
-    border: 200px solid #ff0000;
+    border: 20px solid #ff0000;
 }
 
 .timezone-map polygon {
