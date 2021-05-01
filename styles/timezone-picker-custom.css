@@ -1,7 +1,7 @@
 .timezone-map polygon[data-selected='true'] {
     fill: #ff2e2e;
     stroke: red;
-    stroke-width: 0.25px;
+    stroke-width: 0.5px;
 }
 
 .timezone-map polygon {
